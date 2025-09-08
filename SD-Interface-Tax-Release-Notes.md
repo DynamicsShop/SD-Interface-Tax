@@ -1,3 +1,11 @@
+## SD Interface Tax Releases
+
+### 2.0.1
+
+#### Enhancements
+
+- A link to the user guide on the DynamicsShop page was added to the About page and to the Manage Subscriptions page.
+
 ### 2.0.0
 
 #### Enhancements
@@ -36,6 +44,7 @@
 #### Enhancements
 
 - Functionality was created to produce an Intrastat Report and output to xml for submission to ROS.
+
 
 
 
