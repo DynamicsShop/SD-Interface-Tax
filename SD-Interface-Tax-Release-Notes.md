@@ -1,5 +1,11 @@
 ## SD Interface Tax Releases
 
+### 2.0.2
+
+#### Enhancements
+
+- A blank option was added for the PSWT Tax Type.
+
 ### 2.0.1
 
 #### Enhancements
@@ -44,6 +50,7 @@
 #### Enhancements
 
 - Functionality was created to produce an Intrastat Report and output to xml for submission to ROS.
+
 
 
 
