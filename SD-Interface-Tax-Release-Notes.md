@@ -1,5 +1,11 @@
 ## SD Interface Tax Releases
 
+### 2.0.3
+
+#### Bug Fixes
+
+- A Rounding precision fix was added to the payment and tax applications in the SD Interface Tax Deductibles Management Codeunit.
+
 ### 2.0.2
 
 #### Enhancements
@@ -50,6 +56,7 @@
 #### Enhancements
 
 - Functionality was created to produce an Intrastat Report and output to xml for submission to ROS.
+
 
 
 
