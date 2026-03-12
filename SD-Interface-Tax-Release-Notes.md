@@ -1,5 +1,11 @@
 ## SD Interface Tax Releases
 
+### 2.0.4
+
+#### Enhancements
+
+- A routine was created to clear up orphan tax entries. For use in situations where a payment is applied against an incorrect PSWT or RCT invoice. After the payment is unapplied and a credit memo raised, the Removed Orphaned Tax action in the Vendor Ledger Entries can be used to remove the Document Type of Tax that was created on posting of the original payment.
+
 ### 2.0.3
 
 #### Bug Fixes
@@ -56,6 +62,7 @@
 #### Enhancements
 
 - Functionality was created to produce an Intrastat Report and output to xml for submission to ROS.
+
 
 
 
