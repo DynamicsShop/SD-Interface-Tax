@@ -1,5 +1,19 @@
 ## SD Interface Tax Releases
 
+### 2.0.5
+
+#### Enhancements
+
+- A new excel export feature to support 46G reporting was created.
+
+- Created XML export functionality to facilitate 46G XML report generation and submission.
+
+- The notification prompting users to activate a free trial of SD Interface Tax on a fresh install has been limited to display no more than once per hour on standard role centres.
+
+- The Manage Subscriptions Page, accessed from the Setup Card, was updated.
+
+- The link in the View Our Apps action on the Setup Card was updated.
+
 ### 2.0.4
 
 #### Enhancements
