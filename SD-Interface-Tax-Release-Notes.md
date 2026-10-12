@@ -1,5 +1,13 @@
 ## SD Interface Tax Releases
 
+### 2.0.6
+
+#### Enhancements
+
+- Telemetry was added to log when core functions of SD Interface Tax check the validity of the product licence.
+
+- An update was made to the message displayed on the Activation page on initial installation of the App.
+
 ### 2.0.5
 
 #### Enhancements
